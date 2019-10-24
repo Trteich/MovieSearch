@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="action_settings">Настройки</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Сохраненные Фильмы</string>
+    <string name="menu_search_title">Поиск по названию</string>
+    <string name="menu_search_person">Поиск по имени</string>
+    <string name="menu_search">Search</string>
+
+
+    <string name="action_bar_search">Найти фильм</string>
+
+
+    <string name="details_overview">Обзор</string>
+    <string name="details_empty_data">_отсутсвует_</string>
+    <string name="details_release">Премьера:</string>
+    <string name="details_raiting">Рейтинг:</string>
+    <string name="todo">TODO</string>
+    <string name="details_save_btn">Сохранить</string>
+    <string name="details_del_btn">Удалить</string>
+</resources>
